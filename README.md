@@ -35,7 +35,7 @@ Atualmente meu foco principal é:
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel-Assis&layout=compact&theme=tokyonight&langs_count=6)
 
